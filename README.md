@@ -11,3 +11,4 @@ New Windows Client is available! alpha (v1.10.06) this version is the newest upd
 All of the sprites i took from Itch.io from so many artist, i will keep a list with every Artist of the sprites of the game (pls give me some time)
 
 # In this repository are all the scripts of the games.
+Wanna test my game? https://inaudito.itch.io/trialsdknight enjoy!
